@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=izy3TUBAnio&ab_channel=.GUTS
 
 
 https://github.com/JesusFreke/smali/wiki
+
+
+https://usmile.at/symposium/2017/program/strazzere-fenton
