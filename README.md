@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=LFMP3f2ev2k&ab_channel=JCConfTaiwan
 
 
 https://www.youtube.com/watch?v=izy3TUBAnio&ab_channel=.GUTS
+
+
+https://github.com/JesusFreke/smali/wiki
