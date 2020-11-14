@@ -16,3 +16,10 @@ https://github.com/JesusFreke/smali/wiki
 
 
 https://usmile.at/symposium/2017/program/strazzere-fenton
+
+
+
+
+BLOG
+
+http://calebfenton.github.io/
