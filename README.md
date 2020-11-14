@@ -11,6 +11,8 @@ https://www.youtube.com/watch?v=LFMP3f2ev2k&ab_channel=JCConfTaiwan
 
 https://www.youtube.com/watch?v=izy3TUBAnio&ab_channel=.GUTS
 
+https://www.youtube.com/watch?v=Wv5E4XjBFg0&ab_channel=GDGTaipei
+
 
 https://github.com/JesusFreke/smali/wiki
 
